@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyApp</string>
+    <string name="welcome">welcome</string>
+    <string name="todo">TODO</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="dont_have_an_account_sign_up">Dont have an account? Sign up?</string>
 </resources>

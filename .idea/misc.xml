@@ -3,9 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MyApp2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.136" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MyApp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1335" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/MyApp2/app/src/main/res/layout/activity_1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MyApp2/app/src/main/res/layout/activity_1.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MyApp2/app/src/main/res/layout/activity_2.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/MyApp2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MyApp2/app/src/main/res/layout/activity_spash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MyApp2/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MyApp2/app/src/main/res/layout/activity_text.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MyApp2/app/src/main/res/layout/activity_text_view.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
